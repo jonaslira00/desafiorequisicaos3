@@ -41,3 +41,7 @@ Automatiza a movimentação dos objetos do S3 para o Glacier após 90 dias.
 
 ---
 
+### Fluxograma:
+
+<img width="758" height="532" alt="Fluxograma" src="https://github.com/user-attachments/assets/f04399f5-21b0-4c67-8d7e-31e5c84da02c" />
+
